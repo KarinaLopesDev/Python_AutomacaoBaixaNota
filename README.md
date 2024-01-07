@@ -9,6 +9,6 @@ Projeto simples de automaçao, no qual realiza limpeza de notas num sistema espe
 -openpyxl
 -pyautogui
 -time
--pygetwindow as gw
--PySimpleGUI as sg
+-pygetwindow
+-PySimpleGUI
 
